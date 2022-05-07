@@ -1,6 +1,8 @@
 ###
 
-O serviço público de saúde em alguns países é bem precário, resultando na busca de formas de atendimento privadas atraves Planos de Saúde.
+Despesas médicas são uma das principais despesas de um indivíduo. 
+
+Muitos fatores contribuem para a evolução destes gastos, estilos de vidas e parâmetros físicos podem trazer doenças e enfermidades que causam esses aumentos em planos de saúde. Além disso, alguns estudos indicam que, os principais fatores que contribuem para maiores gastos em cuidados médicos pessoais incluem tabagismo, envelhecimento e IMC.
 
 No Brasil, estes planos privados sofrem pesada regulação pela ANS - Agência Nacional de Saúde o que eleva os custos e valores das mensalidades, além dos custos associados à internação, UTI e outros procedimentos cirúrgicos.
 
