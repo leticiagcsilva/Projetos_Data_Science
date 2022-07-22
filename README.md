@@ -1,7 +1,8 @@
 # Projetos de Data Science
 
 
-- [Precificação de Plano de Saúde](https://github.com/leticiagcsilva/Projetos_DataScience/tree/main/Precificacao_Plano_de_Saude)
+### [Precificação de Plano de Saúde](https://github.com/leticiagcsilva/Projetos_DataScience/tree/main/Precificacao_Plano_de_Saude)
+
 Nesse projeto analiso uma amostra de dados de uma seguradora americana objetivando identificar que fatores influenciam o preço final de um plano de saúde para fornecer um modelo para outras seguradoras calcular seus preços de forma acertiva.
 
 
